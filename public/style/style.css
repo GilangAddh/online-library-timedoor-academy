@@ -1,0 +1,23 @@
+.bg-grey {
+    background-color: #e7e7e7;
+}
+
+.text-detail {
+    width: 20vw;
+}
+
+.justify {
+    text-align: justify;
+}
+svg {
+    max-width: 50px;
+}
+
+.text-sm {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.w-input {
+    width: 100px;
+}
